@@ -1,0 +1,12 @@
+.extra-padding {
+	margin: 20px;
+}
+.custom-body {
+	background-color: #AED6DC;
+}
+.custom-navbar {
+	background-color: #728082;
+}
+.custom-navbar .navbar-brand {
+    color: white;
+}
