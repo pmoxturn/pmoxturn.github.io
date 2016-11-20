@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>Phoebe's website</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+   		<link href="https://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+   		<link href="./css/index.css" rel="stylesheet">
+	</head>
+	<body class="custom-body">
+		<div class="jumbotron jumbotron-fluid">
+		  <div class="container">
+		    <h1 class="display-3">Fluid jumbotron</h1>
+		    <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+		  </div>
+		</div>
+	</body>
+</html>
